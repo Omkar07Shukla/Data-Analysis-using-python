@@ -1,0 +1,1 @@
+Here i perform data analysis  , extraction and visualization on available scans of diabetic retinopathy . I extract the data from visual scans of affected eyes . I use python in my project 
