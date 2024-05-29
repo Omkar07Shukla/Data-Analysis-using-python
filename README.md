@@ -1,0 +1,16 @@
+data extraction on available scans amd pictures of diabetic retinopathy
+from tensorflow import lite
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras import layers
+import numpy as np
+import pandas as pd
+import random, os
+import cv2
+import shutil
+import keras
+import matplotlib.pyplot as plt
+from matplotlib.image import imread
+from keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras.metrics import categorical_accuracy
+from sklearn.model_selection import train_test_spli
